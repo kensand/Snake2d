@@ -3,11 +3,11 @@ Classic 2d Snake game being developed in c++ for ubuntu linux and other platform
 
 # Installation
 ##For linux: 
-To compile - in command line run following command in directory with makefile:
+To compile - in command line enter following command while in the directory with the makefile:
 ```
 make
 ```
-inside directory to compile, and run using the command 
+To run use
 ```
 ./Snake2d
 ```
