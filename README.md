@@ -1,4 +1,4 @@
-# OriginalSnake
+# Snake2d
 Classic 2d Snake game being developed in c++ for ubuntu linux and other platforms
 
 # Installation
